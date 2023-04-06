@@ -1,2 +1,7 @@
 A test for git students
+<<<<<<< HEAD
 Can I test it?
+=======
+Another test
+other
+>>>>>>> 69d00a7fdf8a1a0bdb784639c08912b9ee06e71e
